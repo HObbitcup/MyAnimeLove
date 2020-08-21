@@ -1,0 +1,36 @@
+#bar{
+    background-color: black; 
+}
+
+#pesquisar{
+color:black ;
+background-color: rgb(15, 235, 15);
+font-size: medium;
+}
+
+
+
+.home{
+    color: rgb(15, 235, 15);
+    font-size: 17PX;
+    padding: 10px;
+    padding-top: 50px;
+}
+#ps{
+    color: rgb(15, 235, 15);
+}
+.nav-link{
+     color:rgb(15, 235, 15);
+     
+}
+.navbar-brand{
+    color:rgb(15, 235, 15);
+    font-family: Berlin Sans FB Demi ;
+} 
+
+.dropdown-item{
+    color: rgb(15, 235, 15);
+}
+.dropdown-menu{
+    background-color: black;
+}
