@@ -7,9 +7,6 @@ color:black ;
 background-color: rgb(15, 235, 15);
 font-size: medium;
 }
-
-
-
 .home{
     color: rgb(15, 235, 15);
     font-size: 17PX;
@@ -34,3 +31,67 @@ font-size: medium;
 .dropdown-menu{
     background-color: black;
 }
+.cl-fundo{
+    color:rgba(0, 0, 0, 0.877) ;
+    
+} 
+.cl-Card{
+    color: rgb(15, 235, 15) ;
+    background-color: black;
+    border: block 20px;
+    border-color:black;
+} 
+.cl-Boton{
+    color: rgb(15, 235, 15) ;
+    background-color: black;
+    border: block 20px;
+    border-color:rgb(15, 235, 15);
+    
+}
+ btn:hover{
+    color: rgb(15, 235, 15);
+}
+html >body{
+    background-color: rgba(0, 0, 0, 0.877);
+}
+.cards{
+    position: relative;
+    top: 20px;
+    padding: 20px;
+    right: 20px;
+}
+.cards1{
+    position: absolute;
+    top: 112px;
+    padding: 20px;
+    left:280px;
+    margin-top: 56px;
+}
+.cards2{
+    position: absolute;
+    top: 112px;
+    padding: 20px;
+    left:580px;
+    margin-top: 56px;
+}
+.container{
+    color:rgb(15, 235, 15) ;
+}
+hr{
+
+        border-top: 2px solid rgb(15, 235, 15);
+     
+}
+.tam{
+    height: 385px;
+}
+.colorname{
+    color: rgb(15, 235, 15);
+    margin-top: 10px;
+    
+}
+.tom{
+ background-color: black;
+ 
+}
+
